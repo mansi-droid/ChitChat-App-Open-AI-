@@ -8,6 +8,7 @@ App Features :
 - Settings screen
 - Supported Light-Dark theme
 - Supported Android latest version
+- Google Ads
 
 
 ## Index
@@ -62,11 +63,13 @@ Steps:
 
 Steps:
  
-1) Download Zip File
+1) Download the Zip File
 2) Unzip the File
 3) Open Unzipped Folder in Android Studio(File -> Open -> Choose your Unzipped Folder and Click on "OK") ![Android Studio One](AndroidStudioOne.png)
 4) Paste the downloaded "google-services.json" in "app" Folder ![Android Studio Two](AndroidStudioTwo.png)
 5) Android Studio setup is finished
 6) Run your Project. ![Android Studio Three](AndroidStudioThree.png)
+7) Replace "Add_Main_Ads_ID" and "Add_Banner_Ads_ID" with your Ads ID.
+8) Replace "Open_AI_Access_Token" with your open AI access token
 
 Happy Coding . . .
